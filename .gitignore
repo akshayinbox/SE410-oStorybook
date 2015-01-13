@@ -2,3 +2,8 @@
 /nbproject/private/
 /build/
 /distrib/
+/bin/
+
+*.classpath
+*.project
+.settings/org.eclipse.jdt.core.prefs
